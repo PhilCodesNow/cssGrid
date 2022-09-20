@@ -1,3 +1,37 @@
-body{
-    background-color: black;
+
+/* 
+
+FOR PANCAKE STACK
+body > *{
+    border: 2px solid orange;
+    min-height: 5rem;
 }
+body{
+    display: grid;
+    height: 100vh;
+    grid-template-rows: auto 1fr auto;
+} */
+
+
+
+
+
+/* //////////////////////////////////////// */
+
+body > *{
+    border: 2px solid orange;
+    min-height: 5rem;
+}
+body{
+    display: grid;
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
+
